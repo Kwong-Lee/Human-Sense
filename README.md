@@ -13,7 +13,6 @@ the location of individual(s) at any place and time while
 maintaining privacy laws is crucial.
 </b>
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
+![Alt text](/Users/KwongLee/Documents/GitHub/Human-Sense/demo.gif)
 <br><br>
 <a href="https://drive.google.com/file/d/1oRuY9RNvGdrSOovxCMXZJFYPFmM_XQlR/view?usp=sharing">Project Poster</a>
