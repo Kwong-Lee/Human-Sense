@@ -13,6 +13,6 @@ the location of individual(s) at any place and time while
 maintaining privacy laws is crucial.
 </b>
 
-![Alt text](/Users/KwongLee/Documents/GitHub/Human-Sense/demo.gif)
+![Alt text](https://github.com/kwonglee/Human-Sense/blob/master/demo.gif)
 <br><br>
 <a href="https://drive.google.com/file/d/1oRuY9RNvGdrSOovxCMXZJFYPFmM_XQlR/view?usp=sharing">Project Poster</a>
