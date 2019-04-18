@@ -12,6 +12,6 @@ the location of individual(s) at any place and time while
 maintaining privacy laws is crucial.
 
 ## Demo
-<img src="https://github.com/kwonglee/Human-Sense/blob/master/demo.gif" width="40" height="40" />
+<img src="https://github.com/kwonglee/Human-Sense/blob/master/demo.gif"/>
 ## More Info
 <a href="https://drive.google.com/file/d/1oRuY9RNvGdrSOovxCMXZJFYPFmM_XQlR/view?usp=sharing">Project Poster</a>
