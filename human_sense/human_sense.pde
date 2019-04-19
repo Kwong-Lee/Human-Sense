@@ -39,7 +39,6 @@ void draw() {
   fill(98,245,31); // green color
   // calls the functions for drawing the radar
   drawRadar(); 
-  drawLine();
   drawObject();
   drawText();
 }
