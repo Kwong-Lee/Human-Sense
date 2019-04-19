@@ -11,6 +11,9 @@ are prohibited. With school violence increasing, identifying
 the location of individual(s) at any place and time while
 maintaining privacy laws is crucial.
 
+## Result
+
+
 ## Demo
 <p align="middle"><img src="https://github.com/kwonglee/Human-Sense/blob/master/demo.gif"/></p>
 
