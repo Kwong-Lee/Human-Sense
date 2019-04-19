@@ -2,7 +2,7 @@
 Senior Capstone Project
 
 ## Goal
-Design and build an affordable tracking system to identify
+Design and build an affordable tracking system to track
 individual(s) in areas where security cameras are prohibited.
 
 ## Motivation
