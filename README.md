@@ -12,7 +12,7 @@ the location of individual(s) at any place and time while
 maintaining privacy laws is crucial.
 
 ## Result
-
+<p align="middle"><img src="https://github.com/Kwong-Lee/Human-Sense/blob/master/image3.png" width="600" length="600" /></p>
 
 ## Demo
 <p align="middle"><img src="https://github.com/kwonglee/Human-Sense/blob/master/demo.gif"/></p>
