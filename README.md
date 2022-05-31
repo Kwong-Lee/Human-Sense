@@ -1,4 +1,4 @@
-# HTMS: Human Tracking Monitoring System
+# Sense
 Senior Capstone Project
 
 ## Goal
